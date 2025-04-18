@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d28f6788e62ca2c4a9a3cc6dfab58c3e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - profileNameText: {instanceID: 0}
+  - ageText: {instanceID: 0}
+  - weightText: {instanceID: 0}
+  - heightText: {instanceID: 0}
+  - profileIcon: {instanceID: 0}
+  - editPanel: {instanceID: 0}
+  - nameInput: {instanceID: 0}
+  - ageInput: {instanceID: 0}
+  - weightInput: {instanceID: 0}
+  - heightInput: {instanceID: 0}
+  - changeIconButton: {instanceID: 0}
+  - saveButton: {instanceID: 0}
+  - cancelButton: {instanceID: 0}
+  - defaultAvatar: {fileID: 21300000, guid: 0ccc508108fa6ed4fa11b4a467d7f609, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
